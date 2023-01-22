@@ -18,12 +18,12 @@ const ojRichard = {
   appTechnologies: {
     web: {
       frontEnd: [
-        typescript,
+        "typescript",
         { javaScript: ["vanilla JS", "react", "vue"] },
-        { css: ["bootstrap"] }
+        { css: ["bootstrap", "sass"] }
       ],
       backEnd: [
-        typescript,
+        "typescript",
         javaScript: ["nodejs", "express"],
         python3: ["django"]
       ]
