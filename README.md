@@ -2,8 +2,8 @@
 #### You can call me Richard if it's about work</h4>
 <hr>
 
-- 👀 I’m interested in Enterprise Projects
-- 💞️ I’m looking to collaborate on Enterprise Projects requiring JavaScript, React, Nodejs, Flutter or Python3, 
+- 👀 I’m learning ElectronJS. It facinates me!!
+- 💞️ I’m looking to collaborate on Enterprise Projects requiring JavaScript, Electronjs, React, Nodejs, Flutter or Python3, 
 
 ### You can find me:
 <a href = "mailto:oseijuantuah@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -19,7 +19,7 @@ const ojRichard = {
     web: {
       frontEnd: [
         "typescript",
-        { javaScript: ["vanilla JS", "react", "vue"] },
+        { javaScript: ["vanilla JS", electron, "react", "vue"] },
         { css: ["bootstrap", "sass"] }
       ],
       backEnd: [
@@ -30,8 +30,8 @@ const ojRichard = {
     },
     
     mobile: ["flutter"],
-    databases: ["MySql", "Postgresql", "sqlite", "firebase-firestore"],
-    stillYoungIn: ["Flutter", "Kotlin", "C++"]  
+    databases: ["MySql", "Postgresql", "MongoDB", "firebase-firestore"],
+    stillYoungIn: ["Electronjs", "C++"]  
   },
 };
 ```
@@ -46,6 +46,7 @@ const ojRichard = {
  <img height="60" src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.webp">
  <img height="60" src="https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.webp">
  <img width="60" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp">
+ <img width="60" src="https://media.giphy.com/media/V8y1y1FzxDETVUtQE4/giphy.gif">
  
  <a href="https://github.com/mrbridge-dev">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbridge-dev&theme=radical&hide=glsl,python" />
