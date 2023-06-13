@@ -48,7 +48,7 @@ const ojRichard = {
  <img width="60" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp">
  <img width="60" src="https://media.giphy.com/media/V8y1y1FzxDETVUtQE4/giphy.gif">
  
- <a href="https://github.com/mrbridge-dev">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrbridge-dev&theme=radical&hide=glsl,python" />
+ <a href="https://github.com/amt-juantuah-richard">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amt-juantuah-richard&theme=radical&hide=glsl,python" />
 </a>
 </div>
