@@ -24,14 +24,15 @@ const ojRichard = {
       ],
       backEnd: [
         "typescript",
-        javaScript: ["nodejs", "express"],
-        python3: ["django"]
+        { javaScript: ["nodejs", "express"] },
+        { python3: ["django"] },
+        "golang"
       ]
     },
     
     mobile: ["flutter"],
     databases: ["MySql", "Postgresql", "MongoDB", "firebase-firestore"],
-    stillYoungIn: ["Electronjs", "C++"]  
+    stillYoungIn: [ "Electronjs", "C++" ]  
   },
 };
 ```
