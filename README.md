@@ -1,19 +1,18 @@
 # 👋 Hi, my name is O.J :smile:
-#### You can call me Richard if it's about work</h4>
+#### Thanks for being here
 <hr>
 
 - 👀 I’m learning ElectronJS. It facinates me!!
 - 💞️ I’m looking to collaborate on Enterprise Projects requiring JavaScript, Electronjs, React, Nodejs, Flutter or Python3, 
 
 ### You can find me:
-<a href = "mailto:oseijuantuah@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/richard-osei-juantuah-90771b245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:oseijuantuah@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 
 ![](https://komarev.com/ghpvc/?username=mrbridge-dev&style=flat-square)
 
 ### About me in code:  
 ```javascript
-const ojRichard = {
+const oj = {
   addressAs: "he" | "him",
   appTechnologies: {
     web: {
@@ -49,7 +48,7 @@ const ojRichard = {
  <img width="60" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp">
  <img width="60" src="https://media.giphy.com/media/V8y1y1FzxDETVUtQE4/giphy.gif">
  
- <a href="https://github.com/amt-juantuah-richard">
+ <a href="https://github.com/amt-juantuah">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amt-juantuah-richard&theme=radical&hide=glsl,python" />
 </a>
 </div>
