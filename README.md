@@ -1,6 +1,7 @@
 # 👋 Hi, my name is O.J :smile:
 #### Thanks for being here
 <hr>
+<hr>
 
 - 👀 I’m learning ElectronJS. It facinates me!!
 - 💞️ I’m looking to collaborate on Enterprise Projects requiring JavaScript, Electronjs, React, Nodejs, Flutter or Python3, 
