@@ -50,6 +50,6 @@ const oj = {
  <img width="60" src="https://media.giphy.com/media/V8y1y1FzxDETVUtQE4/giphy.gif">
  
  <a href="https://github.com/amt-juantuah">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amt-juantuah-richard&theme=radical&hide=glsl,python" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amt-juantuah&theme=radical&hide=glsl,python" />
 </a>
 </div>
