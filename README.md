@@ -3,8 +3,8 @@
 <hr>
 <hr>
 
-- 👀 I’m learning ElectronJS. It facinates me!!
-- 💞️ I’m looking to collaborate on Enterprise Projects requiring JavaScript, Electronjs, React, Nodejs, Flutter or Python3, 
+- 👀 I’m learning Kotlin for Android Dev. It facinates me!!
+- 💞️ I’m looking to collaborate on Enterprise Projects requiring JavaScript, Kotlin, React, Nodejs, Flutter or Python3, 
 
 ### You can find me:
 <a href = "mailto:oseijuantuah@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
@@ -30,7 +30,7 @@ const oj = {
       ]
     },
     
-    mobile: ["flutter"],
+    mobile: ["flutter", "Kotlin"],
     databases: ["MySql", "Postgresql", "MongoDB", "firebase-firestore"],
     stillYoungIn: [ "Electronjs", "C++" ]  
   },
