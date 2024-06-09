@@ -15,13 +15,17 @@
 ```javascript
 const oj = {
   addressAs: "he" | "him",
+
   appTechnologies: {
+    mobile: ["flutter", "Kotlin"],
+
     web: {
       frontEnd: [
         "typescript",
         { javaScript: ["vanilla JS", electron, "react", "vue"] },
         { css: ["bootstrap", "sass"] }
       ],
+
       backEnd: [
         "typescript",
         { javaScript: ["nodejs", "express"] },
@@ -29,9 +33,9 @@ const oj = {
         "golang"
       ]
     },
-    
-    mobile: ["flutter", "Kotlin"],
+
     databases: ["MySql", "Postgresql", "MongoDB", "firebase-firestore"],
+
     stillYoungIn: [ "Electronjs", "C++" ]  
   },
 };
@@ -39,6 +43,7 @@ const oj = {
 
 
 **Languages and tools:**  
+ <img height="50" width="50" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBmNTNkZ2J1eW5uamdjYWlydHRkOW5iZGpoNnZkdjg2dmdoaXJ1cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lmy23L3RkJ0sEWokRN/giphy.webp">
  <img height="60" src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.webp">
  <img height="60" src="https://i.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.webp">
  <img height="60" src="https://i.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.webp">
@@ -48,6 +53,8 @@ const oj = {
  <img height="60" src="https://i.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.webp">
  <img width="60" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp">
  <img width="60" src="https://media.giphy.com/media/V8y1y1FzxDETVUtQE4/giphy.gif">
+
+ 
  
  <a href="https://github.com/amt-juantuah">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amt-juantuah&theme=radical&hide=glsl,python" />
